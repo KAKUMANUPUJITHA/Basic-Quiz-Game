@@ -13,7 +13,8 @@ This Python project is a simple quiz game implemented using the Tkinter library 
 4. **Functionality**:
    - `display_question()`: Updates the question label and option buttons with the current question and its options.
    - `enable_submit()`: Enables the submit button after the user selects an option.
-   - `check_answer()`: Compares the selected option with the correct answer and updates the score accordingly. Shows a message box indicating if the answer is correct or incorrect. Proceeds to the next question if available or shows the final score if all questions have been answered.
+   - `check_answer()`: Compares the selected option with the correct answer and updates the score accordingly. Shows a message box indicating if the answer is correct or incorrect.
+     
    - `show_final_score()`: Displays a message box showing the final score.
 
 Overall, this project demonstrates the use of Tkinter for creating a basic quiz game interface with interactive functionality for answering questions and keeping track of scores.
